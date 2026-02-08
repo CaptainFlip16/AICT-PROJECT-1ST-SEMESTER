@@ -21,14 +21,14 @@ This project demonstrates practical skills in web development, UI/UX design, and
 ### Below are some Glimpse of the website made.
 
 ### What's On Page
-![What's On Page](images/1.png)
-![What's On Page](images/2.png)
+![What's On Page](Images/1.png)
+![What's On Page](Images/2.png)
 
 ### Food and Drink Page
-![What's On Page](images/4.png)
+![What's On Page](Images/4.png)
 
 ### Contact us Page
-![What's On Page](images/5.png)
+![What's On Page](Images/5.png)
 
 ---
 
